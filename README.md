@@ -7,6 +7,8 @@ Environment Challenge
 
 Have an idea for a hack that looks to solve pressing environmental issues? This challenge is open to teams who want to tackle big problems like climate change, food waste, and biodiversity loss (just to name a few).
 
+# Demo
+https://getthegarbageouttahere.tech/
 
 # Collabration
 Worked in teams of 3:
