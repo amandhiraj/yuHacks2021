@@ -54,7 +54,7 @@ Worked in teams of 3:
 # Screenshots
 homepage                          
 :-------------------------:|
-![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/393/290/datas/gallery.jpg)
+![](https://raw.githubusercontent.com/amandhiraj/yuHacks2021/main/index.png)
 
 ## License
 
